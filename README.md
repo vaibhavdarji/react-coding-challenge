@@ -2,6 +2,8 @@
 
 #need to build a web app which allow user to login and view/search/filter games.
 
+#screenshots(images) are attached for reference.
+
 #APIs are provided: vendors.json and games.json
 
 
